@@ -10,13 +10,13 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'images/hd/2.jpg',
             title: 'Image 2',
             caption: 'This is the caption for image 2',
-            description: ''
+            
         },
         {
             src: 'images/hd/3.jpg',
             title: 'Image 3',
             caption: 'This is the caption for image 3',
-            description: ''
+            
         },
         {
             src: 'images/hd/4.jpg',
@@ -28,91 +28,89 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'images/hd/5.jpg',
             title: 'Image 5',
             caption: 'This is the caption for image 5',
-            description: ''
+           
         },
         {
             src: 'images/hd/6.jpg',
             title: 'Image 6',
             caption: 'This is the caption for image 6',
-            description: ''
+          
         },
         {
             src: 'images/hd/7.jpg',
             title: 'Image 7',
             caption: 'This is the caption for image 7',
-            description: ''
+           
         },
         {
             src: 'images/hd/8.jpg',
             title: 'Image 8',
             caption: 'This is the caption for image 8',
-            description: ''
-        },
-        {
+          
             src: 'images/hd/9.jpg',
             title: 'Image 9',
             caption: 'This is the caption for image 9',
-            description: ''
+       
         },
         {
             src: 'images/hd/10.jpg',
             title: 'Image 10',
             caption: 'This is the caption for image 10',
-            description: ''
+            
         },
         {
             src: 'images/hd/11.jpg',
             title: 'Image 11',
             caption: 'This is the caption for image 11',
-            description: ''
+      
         },
         {
             src: 'images/hd/12.jpg',
             title: 'Image 12',
             caption: 'This is the caption for image 12',
-            description: ''
+           
         },
         {
             src: 'images/hd/13.jpg',
             title: 'Image 13',
             caption: 'This is the caption for image 13',
-            description: ''
+         
         },
         {
             src: 'images/hd/14.jpg',
             title: 'Image 14',
             caption: 'This is the caption for image 14',
-            description: ''
+        
         },
         {
             src: 'images/hd/15.jpg',
             title: 'Image 15',
             caption: 'This is the caption for image 15',
-            description: ''
+           
         },
         {
             src: 'images/hd/16.jpg',
             title: 'Image 16',
             caption: 'This is the caption for image 16',
-            description: ''
+         
         },
         {
             src: 'images/hd/17.jpg',
             title: 'Image 17',
             caption: 'This is the caption for image 17',
-            description: ''
+            
         },
         {
             src: 'images/hd/18.jpg',
             title: 'Image 18',
             caption: 'This is the caption for image 18',
-            description: ''
+            
         },
         {
             src: 'images/hd/19.jpg',
             title: 'Image 19',
             caption: 'This is the caption for image 19',
-            description: ''
+           
         },
         
     ];
