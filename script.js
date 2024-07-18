@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'images/hd/1.jpg',
             title: 'Image 1',
             caption: 'This is the caption for image 1',
-            description: ''
+          
         },
         {
             src: 'images/hd/2.jpg',
